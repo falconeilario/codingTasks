@@ -1,4 +1,4 @@
-# codingTasks
+# Data Analysis and Data Visualisation with Python
 This is one my data projects for HyperionDev Data Science Bootcamp.
 ## data_viz_task.ipynb
 
