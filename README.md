@@ -1,5 +1,5 @@
 # Data Analysis and Data Visualisation with Python
-This is one my data projects for HyperionDev Data Science Bootcamp.
+This is one my data projects for HyperionDev Data Science Bootcamp (full portfolio available [here](https://www.hyperiondev.com/portfolio/IF23120013127)).
 ## data_viz_task.ipynb
 
 ### Task description
